@@ -1,0 +1,27 @@
+{
+	"Charmed Stray": {
+		"attack": 1,
+		"life": 1,
+		"first_strike": false
+	},
+	"Ironscale Hydra": {
+		"attack": 5,
+		"life": 5,
+		"first_strike": false
+	},
+	"Youthful Knight": {
+		"attack": 2,
+		"life": 1,
+		"first_strike": true
+	},
+	"Bonecrusher Giant": {
+		"attack": 4,
+		"life": 3,
+		"first_strike": false
+	},
+	"Helica Glider": {
+		"attack": 2,
+		"life": 2,
+		"first_strike": true
+	}
+}

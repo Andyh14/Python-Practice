@@ -1,0 +1,18 @@
+"""
+File:         hw1_part3.py
+Author:       Andy Huang
+Date:         9/9/2020
+Section:      46
+E-mail:       andyh1@umbc.edu
+Description:  This program calculates the annual cost of owning any type of pet.
+
+
+"""
+
+pet_type = input("What type of pet do you own? ")
+monthly_food = input("How much do you spend per month on food? ")
+monthly_supplies = input("How much do you spend per month on other supplies? ")
+annual_cost = (int(monthly_food) + int(monthly_supplies)) * 12
+
+print('The annual cost of owning a(n) {} is {} dollars '.format(pet_type, annual_cost))
+
